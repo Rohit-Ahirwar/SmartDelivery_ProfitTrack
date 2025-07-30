@@ -22,7 +22,7 @@ Visualizes the impact of delivery status (In-Transit, Delivered, Returned, Cance
 
 <a href="https://github.com/Rohit-Ahirwar/SmartDelivery_ProfitTrack/blob/main/Sales%20DeshBoard%20Data.xlsx">Seles DataSet</a>
 
-<a href="https://github.com/Rohit-Ahirwar/SmartDelivery_ProfitTrack/blob/main/Sales%20Deshboard.png"></a>
+<a href="https://github.com/Rohit-Ahirwar/SmartDelivery_ProfitTrack/blob/main/Sales%20Deshboard.png">Seles DeshBoard</a>
 
  ## Sales Dashboard Process
 Step 1: Data Collection
